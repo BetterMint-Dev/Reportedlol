@@ -13,9 +13,7 @@ To gain access to the full features of the script:
 - Open a #🎫┃ticket 
 - Use the /buy command in chat
 
-All purchases are handled by me.
-
-@Alerts 
+All purchases are handled by the owner BetterMint.
 
 The Auth and Management bot is @Reported Auth#4932
 
